@@ -1,4 +1,4 @@
-# Papers
+# Papers describing financial research
 Various public papers, mostly from Arxiv og SSRN
 
 Abstracts from the papers and where to find them in alphabetical order:
